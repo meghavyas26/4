@@ -2,6 +2,7 @@
 int main()
 {
 	int y,l;
+	#you should consider more variables
 	printf("ENTER A YEAR ;");
 	scanf("%d",&y);
 	if(y%100==0)
